@@ -13,7 +13,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="yassfer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yassfer | Facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
+[<img align="left" alt="yassfer | Facebook" width="22px" src="https://www.citypng.com/public/uploads/preview/-11595327237ulqckjabpb.png" />][facebook]
 [<img align="left" alt="yassfer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
